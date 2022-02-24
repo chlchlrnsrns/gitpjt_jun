@@ -5,8 +5,8 @@ public class Newscontroller {
 		
 	}
 	void master() {
-		
 	}
+
 	void aaa() {
 		
 	}
